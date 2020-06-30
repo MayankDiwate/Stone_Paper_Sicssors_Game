@@ -69,6 +69,7 @@ function game(userChoice) {
       break;
   }
 }
+
 function converter(letter) {
   if (letter === "r") return "Rock";
   if (letter === "p") return "Paper";
